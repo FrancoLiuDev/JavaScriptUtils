@@ -33,4 +33,4 @@ function parseURL(url) {
 
 var urldata = parseURL('http://60.251.125.208:26000/#/list?ssssss=sssss')
     //console.log('urldata', urldata)
-console.log('hash', urldata.hash)
+console.log('hash', urldata)
